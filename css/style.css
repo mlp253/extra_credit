@@ -1,0 +1,33 @@
+body {
+  background: gold;
+}
+
+div{
+  display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+  
+}
+
+h1 ,h2 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 55px;
+  margin: 0px;
+}
+
+h2 { 
+font-size:40px;
+  margin: 0px;
+ 
+}
+
+a {
+  font-family: 'Poiret One';
+  text-decoration: none;
+}
+
+a:hover{
+  color:green;
+}
+
